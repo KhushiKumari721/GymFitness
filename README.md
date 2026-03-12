@@ -1,2 +1,16 @@
-# GymFitness
-LandingPageOfKhushi'sGymFitnessClass is a responsive fitness website built using HTML, CSS, and JavaScript. It features a modern UI with sections for gym programs, trainers, membership plans, and contact information. The project focuses on clean design, responsive layouts, and interactive elements to provide an engaging user experience.
+# Khushi's Gym Fitness Class – Landing Page
+A responsive landing page for **Khushi's Gym Fitness Class** designed to showcase gym services, fitness programs, and motivate users to join a healthy lifestyle. The project focuses on clean UI, responsive layout, and modern frontend design.
+
+## 🚀 Features
+- Modern and attractive landing page
+- Responsive design (mobile, tablet, desktop)
+- Sections for services, trainers, and contact
+- Smooth layout and clean UI
+
+## 🛠️ Technologies Used
+- HTML
+- CSS
+- JavaScript
+
+## 📂 Installation
+- Clone the repository
