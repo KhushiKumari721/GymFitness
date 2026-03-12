@@ -14,3 +14,6 @@ A responsive landing page for **Khushi's Gym Fitness Class** designed to showcas
 
 ## 📂 Installation
 - Clone the repository
+
+## Author
+**Khushi Kumari**
